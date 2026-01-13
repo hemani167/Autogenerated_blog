@@ -11,22 +11,23 @@ This project implements an automated blog generation system using LangGraph and 
 
 2. Set your Google API Key:
    ```bash
-   export GOOGLE_API_KEY="AIzaSyAoYFAFAj76YZVXgAj6Dsh4Njt5lLn-3Js"
+   export GOOGLE_API_KEY="********************************"
    ```
 
 ## Usage
 
-Run the main script with a topic of your choice.
-
-**Example:**
-```bash
-python main.py "US vs Venezuela Tension"
-```
 
 If you run it without arguments, it will ask you to enter the topic interactively:
 ```bash
 python main.py
 ```
+Run the main script with a topic of your choice.
+**Example:**
+```bash
+python main.py "US vs Venezuela Tension"
+```
+
+
 
 ## Architecture
 
