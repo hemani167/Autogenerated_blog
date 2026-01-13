@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+duckduckgo-search
+pydantic
+markdown
+fpdf2
